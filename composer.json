@@ -1,0 +1,15 @@
+{
+    "name": "administrator/helloword",
+    "authors": [
+        {
+            "name": "bestcyt",
+            "email": "850160757@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MoSou\\HelloWorld\\": "src/"
+        }
+    }
+}
